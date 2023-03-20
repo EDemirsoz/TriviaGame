@@ -45,4 +45,7 @@ To use the application, follow these steps:
 
 ## Demo
 
-Insert gif or link to demo
+
+https://user-images.githubusercontent.com/64825806/226433342-0b4fc383-82da-4ce4-aad0-3ffb26459308.mp4
+
+
